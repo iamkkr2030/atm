@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="primary_color">#3F51B5</color> <!-- 기본 버튼/텍스트 색상 -->
+    <color name="secondary_color">#5C6BC0</color> <!-- 버튼 강조 색상 -->
+
+    <!-- 추가된 색상 -->
+    <color name="background_light">#F5F5F5</color> <!-- 화면의 밝은 배경색 -->
+    <color name="background_gradient_start">#E3F2FD</color> <!-- 그라데이션 시작 색 -->
+    <color name="background_gradient_end">#BBDEFB</color> <!-- 그라데이션 끝 색 -->
+
+    <!-- 텍스트 색상 -->
+    <color name="text_primary">#212121</color> <!-- 기본 텍스트 색 -->
+    <color name="text_secondary">#757575</color> <!-- 서브 텍스트 색 -->
 </resources>
